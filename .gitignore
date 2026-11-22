@@ -1,0 +1,8 @@
+/bin/
+*.class
+*.obj
+*.log
+*.log.*
+.metadata/
+.vscode/
+.DS_Store
